@@ -57,6 +57,8 @@ int main()
 
     task1(v1);
 
+    cout<< endl;
+
     task2(v2);
 
     return 0;
